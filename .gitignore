@@ -1,0 +1,11 @@
+# Generic
+client/node_modules
+server/node_modules
+
+# Enviroment variables
+client/.env
+server/.env
+
+# Build process
+client/.next
+server/dist
